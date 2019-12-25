@@ -1,0 +1,28 @@
+# Data Types
+Data types specify the different sizes and values that can be stored in the variable. There are two types of data types in Java:
+
+- **Primitive data types**: The primitive data types include boolean, char, byte, short, int, long, float and double.
+- **Non-primitive data types**: The non-primitive data types include Classes, Interfaces, and Arrays.
+
+<p align="left">
+  <img src="https://static.javatpoint.com/images/java-data-types.png" width="700">
+</p>
+
+
+| Data Type | Default Value | Default size |
+| --- | --- | --- |
+| boolean | false | 1 bit |
+| char | '\u0000'| 2 byte |
+| byte | 0 | 1 byte |
+| short | 0 | 2 byte |
+| int | 0 | 4 byte |
+| long | 0L | 8 byte |
+| float | 0.0f | 4 byte |
+| double | 0.0d | 8 byte |
+
+# Arrays
+Arrays: In Java, an array stores either primitive values (int, char, ...) or references (a.k.a pointers) to objects.
+
+When an object is created by using "new", a memory space is allocated in the heap and a reference is returned. This is also true for arrays, since arrays are objects in Java.
+
+# Wrappers

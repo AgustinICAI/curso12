@@ -14,5 +14,8 @@ Ej.: Jupyter
 Instalar Java SE (java y javac)
 [JAVA openjdk 11](https://jdk.java.net/java-se-ri/13)
 
+Actualizar el PATH de tu máquina para incluir ./bin
+[Modificacion Path](https://www.java.com/en/download/help/path.xml)
+
 Instalar el IDE Visual Studio
 [Visual studio](https://code.visualstudio.com/)
