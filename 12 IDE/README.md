@@ -11,3 +11,8 @@ Ej.: Jupyter
 
 
 # Instalación en local del jdk e IDE
+Instalar Java SE (java y javac)
+[JAVA openjdk 11](https://jdk.java.net/java-se-ri/13)
+
+Instalar el IDE Visual Studio
+[Visual studio](https://code.visualstudio.com/)
