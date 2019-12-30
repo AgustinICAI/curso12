@@ -4,12 +4,13 @@
 3. Definición de una clase
 4. Tipos de datos básicos y arrays
 5. String, Math y Collections
-# Día 2 - POO
+6. Variables de entorno.
+# Día 2 - POO y más Java
 - Herencia
 - Polimorfismo (override)
 - Upcasting/Downcasting
 # Día 3 - Despliegue de aplicaciones:
-- Paquetes
-- Compilación y ejecución en consola. Variables de entorno
+- Paquetes, Compilación y ejecución en consola (LOCAL).
 - Maven
+- Separación por entornos CICD
 - Git
