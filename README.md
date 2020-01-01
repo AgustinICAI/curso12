@@ -6,8 +6,10 @@
 5. String, Math y Collections
 6. Variables de entorno.
 # Día 2 - POO y más Java
-- Herencia
-- Polimorfismo (override)
+- Constructores
+- Herencia / Clases abstractas
+- Polimorfismo
+- Interfaces
 - Upcasting/Downcasting
 # Día 3 - Despliegue de aplicaciones:
 - Paquetes, Compilación y ejecución en consola (LOCAL).
