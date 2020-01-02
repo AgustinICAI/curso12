@@ -26,3 +26,14 @@ Arrays: In Java, an array stores either primitive values (int, char, ...) or ref
 When an object is created by using "new", a memory space is allocated in the heap and a reference is returned. This is also true for arrays, since arrays are objects in Java.
 
 # Wrappers
+
+| Primitive Data Type | Wrapper Class |
+| --- | --- |
+| byte | Byte |
+| short | Short |
+| int | Integer |
+| long | Long |
+| float | Float |
+| double | Double |
+| boolean | Boolean |
+| char | Character |
