@@ -11,7 +11,7 @@
 - Polimorfismo
 - Interfaces
 - Upcasting/Downcasting
-# Día 3 - Despliegue de aplicaciones:
+# Día 3 - Construcción y Despliegue de aplicaciones
 - Paquetes, Compilación y ejecución en consola (LOCAL).
 - Maven
 - Separación por entornos CICD

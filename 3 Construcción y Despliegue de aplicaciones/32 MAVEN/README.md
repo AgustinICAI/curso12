@@ -114,8 +114,8 @@ Estas dependencias se definen en el archivo POM. Ejemplo:
    http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.jenkov.crawler</groupId>
-    <artifactId>java-web-crawler</artifactId>
+    <groupId>es.icai</groupId>
+    <artifactId>hello-world</artifactId>
     <version>1.0.0</version>
 <!-- Aquí van las dependencias -->    
       <dependencies>
@@ -214,3 +214,11 @@ Permiten construir el proyecto utilizando diferentes configuraciones. En lugar d
 ## Maven Plugins
 Permiten agregar sus propias acciones al proceso de compilación. Lo hace creando una clase Java simple que extiende una clase especial de Maven y luego crea un POM para el proyecto. El plugin debe ubicarse en su propio proyecto.
 [Maven plugins](http://maven.apache.org/plugin-developers/index.html)
+
+
+# Ejercicio propuesto
+- A partir de los poms explicados, generar:
+  - Artefacto con una clase holamundo
+  - Artefacto con una clase holamundo y una dependencia de una librería de la comunidad.
+
+- tips:

@@ -11,3 +11,10 @@ Git was created by Linus Torvalds in 2005 for development of the Linux kernel, w
 
 - Principales comandos - cheat sheets
 [cheatsheet de GIT](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
+
+
+- Video parodia
+https://vimeo.com/82408340
+
+
