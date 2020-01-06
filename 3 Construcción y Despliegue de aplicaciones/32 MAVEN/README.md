@@ -185,7 +185,7 @@ La ejecución de Maven se realiza con comando **mvn**. Al ejecutar el comando mv
 mvn install
 ```
 
-Este comando ejecuta la fase **install** (parte del life-cycle predeterminado):
+Este comando ejecuta la fase **install** (parte del life-cycle default):
 - Compila el proyecto
 - Copia el archivo JAR empaquetado en el repositorio local de Maven. 
 
@@ -222,3 +222,11 @@ Permiten agregar sus propias acciones al proceso de compilación. Lo hace creand
   - Artefacto con una clase holamundo y una dependencia de una librería de la comunidad.
 
 - tips:
+```xml
+<!--Hacer maven compatible con java 8 y no se queje de la codificación -->
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.7</maven.compiler.source>
+        <maven.compiler.target>1.7</maven.compiler.target>
+    </properties>
+```

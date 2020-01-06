@@ -1,4 +1,4 @@
-["a
+a
 actualmente
 acuerdo
 adelante
@@ -573,5 +573,4 @@ z
 última
 últimas
 último
-últimos"]
-
+últimos
