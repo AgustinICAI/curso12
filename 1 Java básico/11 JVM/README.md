@@ -9,7 +9,7 @@
 - código java, bytecode y JVM
 
 ## Principal uso de java a día de hoy
-- Aplicaciones escritorio, aplicaciones web / servidor de aplicaciones, Movil
+- Aplicaciones escritorio, aplicaciones web / servidor de aplicaciones / Microservicios, Movil
 
 ## Comparación con otros lenguajes
 [TIOBE](https://www.tiobe.com/tiobe-index/)
