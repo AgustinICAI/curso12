@@ -17,6 +17,7 @@ public abstract class Persona
     {
         this.nombre = nombre;
         this.edad = edad;
+        this.peso = -99;
     }
 
     public String getNombre()
@@ -62,6 +63,13 @@ public abstract class Persona
 
     public abstract int anoNacimiento();
 
-    
+    public String toString()
+    {
+        if(this.getPeso() == -99)
+            return "Persona:" + this.getNombre() + " Edad:" + this.getEdad();
+        else
+            return "Persona:" + this.getNombre() + " Edad:" + this.getEdad() + " Peso: "+ this.getPeso() + " Altura: " + this.getAltura();
+
+    }
 
 }
